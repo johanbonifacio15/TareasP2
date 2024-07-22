@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\bin\Debug\net8.0\LSPpatron.exe
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\bin\Debug\net8.0\LSPpatron.deps.json
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\bin\Debug\net8.0\LSPpatron.runtimeconfig.json
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\bin\Debug\net8.0\LSPpatron.dll
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\bin\Debug\net8.0\LSPpatron.pdb
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\LSPpatron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\LSPpatron.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\LSPpatron.AssemblyInfo.cs
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\LSPpatron.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\LSPpatron.dll
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\refint\LSPpatron.dll
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\LSPpatron.pdb
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\LSPpatron.genruntimeconfig.cache
+C:\Users\johan\source\repos\LSPpatron\LSPpatron\obj\Debug\net8.0\ref\LSPpatron.dll

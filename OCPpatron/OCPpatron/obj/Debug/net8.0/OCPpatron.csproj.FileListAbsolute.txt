@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\bin\Debug\net8.0\OCPpatron.exe
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\bin\Debug\net8.0\OCPpatron.deps.json
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\bin\Debug\net8.0\OCPpatron.runtimeconfig.json
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\bin\Debug\net8.0\OCPpatron.dll
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\bin\Debug\net8.0\OCPpatron.pdb
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\OCPpatron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\OCPpatron.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\OCPpatron.AssemblyInfo.cs
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\OCPpatron.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\OCPpatron.dll
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\refint\OCPpatron.dll
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\OCPpatron.pdb
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\OCPpatron.genruntimeconfig.cache
+C:\Users\johan\source\repos\OCPpatron\OCPpatron\obj\Debug\net8.0\ref\OCPpatron.dll

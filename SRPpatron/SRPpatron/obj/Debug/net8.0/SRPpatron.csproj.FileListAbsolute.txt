@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\bin\Debug\net8.0\SRPpatron.exe
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\bin\Debug\net8.0\SRPpatron.deps.json
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\bin\Debug\net8.0\SRPpatron.runtimeconfig.json
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\bin\Debug\net8.0\SRPpatron.dll
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\bin\Debug\net8.0\SRPpatron.pdb
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.AssemblyInfo.cs
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.dll
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\refint\SRPpatron.dll
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.pdb
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.genruntimeconfig.cache
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\ref\SRPpatron.dll
