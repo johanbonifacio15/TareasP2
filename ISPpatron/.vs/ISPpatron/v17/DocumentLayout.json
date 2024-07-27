@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\ISPpatron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|c:\\users\\johan\\source\\repos\\isppatron\\isppatron\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|solutionrelative:isppatron\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|c:\\users\\johan\\source\\repos\\isppatron\\isppatron\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|solutionrelative:isppatron\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|c:\\users\\johan\\source\\repos\\isppatron\\isppatron\\iscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|solutionrelative:isppatron\\iscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|c:\\users\\johan\\source\\repos\\isppatron\\isppatron\\multifunctionprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|solutionrelative:isppatron\\multifunctionprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|c:\\users\\johan\\source\\repos\\isppatron\\isppatron\\simpleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|solutionrelative:isppatron\\simpleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|c:\\users\\johan\\source\\repos\\isppatron\\isppatron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|solutionrelative:isppatron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|c:\\users\\johan\\source\\repos\\isppatron\\isppatron\\printerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3F8C0A-975E-45E0-BF82-6683DD5AFC11}|ISPpatron\\ISPpatron.csproj|solutionrelative:isppatron\\printerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrinterBase.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\PrinterBase.cs",
+              "RelativeDocumentMoniker": "ISPpatron\\PrinterBase.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\PrinterBase.cs",
+              "RelativeToolTip": "ISPpatron\\PrinterBase.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:39:44.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiFunctionPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\MultiFunctionPrinter.cs",
+              "RelativeDocumentMoniker": "ISPpatron\\MultiFunctionPrinter.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\MultiFunctionPrinter.cs",
+              "RelativeToolTip": "ISPpatron\\MultiFunctionPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:17:53.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimplePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\SimplePrinter.cs",
+              "RelativeDocumentMoniker": "ISPpatron\\SimplePrinter.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\SimplePrinter.cs",
+              "RelativeToolTip": "ISPpatron\\SimplePrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:17:04.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IScan.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\IScan.cs",
+              "RelativeDocumentMoniker": "ISPpatron\\IScan.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\IScan.cs",
+              "RelativeToolTip": "ISPpatron\\IScan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:16:37.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\IPrint.cs",
+              "RelativeDocumentMoniker": "ISPpatron\\IPrint.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\IPrint.cs",
+              "RelativeToolTip": "ISPpatron\\IPrint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:15:44.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\Document.cs",
+              "RelativeDocumentMoniker": "ISPpatron\\Document.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\Document.cs",
+              "RelativeToolTip": "ISPpatron\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:14:33.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\Program.cs",
+              "RelativeDocumentMoniker": "ISPpatron\\Program.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ISPpatron\\ISPpatron\\Program.cs",
+              "RelativeToolTip": "ISPpatron\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:13:41.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

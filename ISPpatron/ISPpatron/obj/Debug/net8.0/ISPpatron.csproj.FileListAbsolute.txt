@@ -1,0 +1,15 @@
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\bin\Debug\net8.0\ISPpatron.exe
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\bin\Debug\net8.0\ISPpatron.deps.json
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\bin\Debug\net8.0\ISPpatron.runtimeconfig.json
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\bin\Debug\net8.0\ISPpatron.dll
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\bin\Debug\net8.0\ISPpatron.pdb
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ISPpatron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ISPpatron.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ISPpatron.AssemblyInfo.cs
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ISPpatron.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ISPpatron.sourcelink.json
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ISPpatron.dll
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\refint\ISPpatron.dll
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ISPpatron.pdb
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ISPpatron.genruntimeconfig.cache
+C:\Users\johan\source\repos\ISPpatron\ISPpatron\obj\Debug\net8.0\ref\ISPpatron.dll

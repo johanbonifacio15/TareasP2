@@ -12,3 +12,4 @@ C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\refint\SRPpatro
 C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.pdb
 C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.genruntimeconfig.cache
 C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\ref\SRPpatron.dll
+C:\Users\johan\source\repos\SRPpatron\SRPpatron\obj\Debug\net8.0\SRPpatron.sourcelink.json
